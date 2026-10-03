@@ -48,12 +48,6 @@ This API provides a ready-to-use collection of product data that frontend develo
 
 # 🌐 Base URL
 
-### Local
-
-```text
-https://ecombackend-c4gwf8b4bnbsgrga.centralindia-01.azurewebsites.net
-```
-
 ### Production
 
 ```text
