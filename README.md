@@ -797,7 +797,7 @@ Built as a learning and practice project using:
 
 **Node.js + Express.js + MongoDB + Mongoose**
 
-Feel free to use this API for learning, practice, and frontend development.
+Feel free to use this API for learning, practice, and frontend development
 
 ---
 
